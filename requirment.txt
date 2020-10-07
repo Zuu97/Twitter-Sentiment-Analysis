@@ -1,0 +1,7 @@
+tensorflow-gpu
+keras
+matplotlib
+pandas
+scikit-learn
+SQLAlchemy
+Flask
